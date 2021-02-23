@@ -15,6 +15,7 @@ I'm a Full Stack Developer with experience in the following technologies:
 * [TWA](https://developers.google.com/web/android/trusted-web-activity) and [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) Web technologies
 
 ### Projects ( Work )
+Currently working at [ArcusTeam](https://arcusteam.com/) as a Full Stack Developer.
 * [bambizz.com](https://bambizz.com/en/) - an app for crowdsourced delivery. Developed and deployed an [Android App](https://play.google.com/store/apps/details?id=com.bambizz), [IOS app](https://apps.apple.com/app/id1509656952) and [Web app](https://app.bambizz.com/) with React Native.
 * [Visolog](https://creativetherapy-log.com/en/) - a [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) website to manage therapy session notes.
 * [Account Management](https://github.com/ElishaMayer/Account-Managment) - an app to track your income and expenses.

@@ -23,5 +23,5 @@ I'm a Full Stack Developer with experience in the following technologies:
 * [NPM packages](https://www.npmjs.com/~emayer) - 3 packages for working with banks in Israel.
 
 ### Contact Information
-<a href='https://www.linkedin.com/in/elisha-mayer-527146153/'><img src='https://github.com/ElishaMayer/ElishaMayer/raw/main/linked-in-logo.png'/></a>
-<a href='mailto:elisha.mayer.il@gmail.com'><img src='https://github.com/ElishaMayer/ElishaMayer/raw/main/gmail-logo-42.png'/></a>
+[<img src='https://github.com/ElishaMayer/ElishaMayer/raw/main/linked-in-logo.png'/>](https://www.linkedin.com/in/elisha-mayer-527146153/)
+[<img src='https://github.com/ElishaMayer/ElishaMayer/raw/main/gmail-logo-42.png'/>](mailto:elisha.mayer.il@gmail.com)

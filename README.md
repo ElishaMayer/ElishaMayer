@@ -12,11 +12,10 @@ I'm a Full Stack Developer with experience in the following technologies:
 * [AWS](https://aws.amazon.com/) ( [EC2](https://aws.amazon.com/ec2/?nc2=h_ql_prod_fs_ec2&ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc), [RDS](https://aws.amazon.com/rds/?nc2=h_ql_prod_fs_rds) ).
 * [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization) and [ASO](https://en.wikipedia.org/wiki/App_store_optimization) ( examples: [bambizz.com](https://www.google.com/search?q=bambizz), [shipwinner.com](https://www.google.com/search?q=shipwinner) ).
 * Management and support of [DNS](https://en.wikipedia.org/wiki/Domain_Name_System).
-* [TWA](https://developers.google.com/web/android/trusted-web-activity) and [PWA](https://en.wikipedia.org/wiki/Progressive_web_application)
+* [TWA](https://developers.google.com/web/android/trusted-web-activity) and [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) Web technologies
 
 ### Projects ( Work )
-I'm currently developing and maintaining the website and the app of [bambizz.com](https://bambizz.com/en/) - an app for crowdsourced delivery.
-
+* [bambizz.com](https://bambizz.com/en/) - an app for crowdsourced delivery. Developed and deployed an [Android App](https://play.google.com/store/apps/details?id=com.bambizz), [IOS app](https://apps.apple.com/app/id1509656952) and [Web app](https://app.bambizz.com/) with React Native.
 * [Visolog](https://creativetherapy-log.com/en/) - a [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) website to manage therapy session notes.
 * [Account Management](https://github.com/ElishaMayer/Account-Managment) - an app to track your income and expenses.
 * [Slideshow App](https://github.com/ElishaMayer/Slideshow-App) - A simple slideshow app for Windows IoT ( Raspberry pi ).

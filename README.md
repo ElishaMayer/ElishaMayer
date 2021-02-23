@@ -24,4 +24,4 @@ I'm a Full Stack Developer with experience in the following technologies:
 
 ### Contact Information
 <a href='https://www.linkedin.com/in/elisha-mayer-527146153/'><img src='https://github.com/ElishaMayer/ElishaMayer/raw/main/linked-in-logo.png'/></a>
-<a href='mailto:elisha.mayer.il@gmail.com'><img src='https://github.com/ElishaMayer/ElishaMayer/raw/main/gmail-logo.png'/></a>
+<a href='mailto:elisha.mayer.il@gmail.com'><img src='https://github.com/ElishaMayer/ElishaMayer/raw/main/gmail-logo-42.png'/></a>

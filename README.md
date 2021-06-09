@@ -1,9 +1,9 @@
 ## Welcome to Elisha Mayer's Github!
 
 ### About Me
-I have a B.Sc in Computer Science from [Jerusalem College of Technology](https://www.jct.ac.il/en) ( Summa cum laude ).
+B.Sc in Computer Science from [Jerusalem College of Technology](https://www.jct.ac.il/en) ( Summa cum laude ).
 
-I'm a Full Stack Developer with experience in the following technologies:
+Full Stack Developer with experience in the following technologies:
 * [React](https://reactjs.org/) with [Redux](https://redux.js.org/) and [Hooks](https://reactjs.org/docs/hooks-intro.html).
 * [React Native](https://reactnative.dev/) with [Hooks](https://reactjs.org/docs/hooks-intro.html) on Android, IOS and [Web](https://github.com/necolas/react-native-web).
 * [NodeJs](https://nodejs.org/en/) with [express](https://expressjs.com/) using [JavaScript](https://en.wikipedia.org/wiki/JavaScript) / [TypeScript](https://www.typescriptlang.org/).

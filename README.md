@@ -4,9 +4,10 @@
 B.Sc in Computer Science from [Jerusalem College of Technology](https://www.jct.ac.il/en) ( Summa cum laude ).
 
 Full Stack Developer with experience in the following technologies:
-* [React](https://reactjs.org/) with [Redux](https://redux.js.org/) and [Hooks](https://reactjs.org/docs/hooks-intro.html).
+* [React](https://reactjs.org/) with [Redux](https://redux.js.org/) and [Hooks](https://reactjs.org/docs/hooks-intro.html) and React server rendering.
 * [React Native](https://reactnative.dev/) with [Hooks](https://reactjs.org/docs/hooks-intro.html) on Android, IOS and [Web](https://github.com/necolas/react-native-web).
 * [NodeJs](https://nodejs.org/en/) with [express](https://expressjs.com/) using [JavaScript](https://en.wikipedia.org/wiki/JavaScript) / [TypeScript](https://www.typescriptlang.org/).
+* Client design framworks like [Ant Design](https://ant.design/), [Material UI](https://mui.com/), [Bootstrap](https://react-bootstrap.github.io/), [styled-components](https://styled-components.com/) and [sass](https://sass-lang.com/).
 * [PHP](https://www.php.net/) with [MySQL](https://www.mysql.com/).
 * [Google Cloud](https://cloud.google.com/) ( [Cloud Functions](https://cloud.google.com/functions), [Firestore](https://cloud.google.com/firestore), [Google Maps Platform](https://cloud.google.com/maps-platform/), [Firebase](https://firebase.google.com/) ).
 * [AWS](https://aws.amazon.com/) ( [EC2](https://aws.amazon.com/ec2/?nc2=h_ql_prod_fs_ec2&ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc), [RDS](https://aws.amazon.com/rds/?nc2=h_ql_prod_fs_rds) ).

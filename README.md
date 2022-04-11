@@ -21,8 +21,6 @@ Currently working at [ArcusTeam](https://arcusteam.com/) as a Software Developer
 * [Visolog](https://creativetherapy-log.com/en/) - a [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) website to manage therapy session notes.
 * [NPM packages](https://www.npmjs.com/~emayer) - 3 packages for working with banks in Israel.
 * [Masav File Generator](https://masav-converter.com/) - PWA Web application to build Masav transactions files online ([GitHub](https://github.com/ElishaMayer/masav-file-generator)).
-* [Account Management](https://github.com/ElishaMayer/Account-Managment) - an app to track your income and expenses.
-* [Slideshow App](https://github.com/ElishaMayer/Slideshow-App) - A simple slideshow app for Windows IoT ( Raspberry pi ).
 * [Image Render Engine](https://github.com/ElishaMayer/Image-Render-Engine) - an image rendering program written in Java.
 
 ### Contact Information

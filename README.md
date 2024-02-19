@@ -21,7 +21,7 @@ Currently working at [Houzz](https://www.houzz.com/) as a Software Developer.
 * [bambizz.com](https://bambizz.com/en/) - an app for crowdsourced delivery. Developed and deployed an [Android App](https://play.google.com/store/apps/details?id=com.bambizz), [IOS app](https://apps.apple.com/app/id1509656952) and [Web app](https://app.bambizz.com/) with React Native.
 * [Visolog](https://creativetherapy-log.com/en/) - a [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) website to manage therapy session notes.
 * [NPM packages](https://www.npmjs.com/~emayer) - 3 packages for working with banks in Israel.
-* [Masav File Generator](https://masav-converter.com/) - PWA Web application to build Masav transactions files online ([GitHub](https://github.com/ElishaMayer/masav-file-generator)).
+* [Masav File Generator](https://github.com/ElishaMayer/masav-file-generator) - An application to build Masav transactions files.
 * [Image Render Engine](https://github.com/ElishaMayer/Image-Render-Engine) - an image rendering program written in Java.
 
 ### Contact Information

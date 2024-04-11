@@ -26,4 +26,4 @@ Currently working at [Houzz](https://www.houzz.com/) as a Software Developer.
 
 ### Contact Information
 [<img src='https://github.com/ElishaMayer/ElishaMayer/raw/main/linked-in-logo.png'/>](https://www.linkedin.com/in/elisha-mayer-527146153/)
-[<img src='https://github.com/ElishaMayer/ElishaMayer/raw/main/gmail-logo-42.png'/>](mailto:elisha.mayer.il@gmail.com)
+
